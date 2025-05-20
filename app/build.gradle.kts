@@ -6,13 +6,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.amphibians"
+    namespace = "com.huillca.amphibians"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.amphibians"
-        minSdk = 24
-        targetSdk = 35
+        applicationId = "com.huillca.amphibians"
+        minSdk = 25
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
